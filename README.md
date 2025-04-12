@@ -9,4 +9,4 @@
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/tysonphung)  
-- 📧 Email: thinhphunggia@gmail.com
+- 📧 thinhphunggia@gmail.com
