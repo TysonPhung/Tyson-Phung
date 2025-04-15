@@ -1,4 +1,4 @@
-#👋 Hi, I'm Tyson Phung
+##👋 Hi, I'm Tyson Phung
 
 - 🎓Econometrics Student @ DePaul University
 - 🧠 Building skills in AI & Data Science
