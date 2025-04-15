@@ -1,3 +1,4 @@
+---
 ##👋 Hi, I'm Tyson Phung
 
 - 🎓Econometrics Student @ DePaul University
