@@ -1,13 +1,10 @@
----
-##👋 Hi, I'm Tyson Phung
+## 👋 **Hi, I'm Tyson Phung**
 
-- 🎓Econometrics Student @ DePaul University
+- 🎓 Econometrics Student @ DePaul University
 - 🧠 Building skills in AI & Data Science
 - 💻 Into Python, SQL and Machine Learning
 
----
-
 ## 📫 Reach Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/tysonphung)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tysonphung)  
 - 📧 thinhphunggia@gmail.com
